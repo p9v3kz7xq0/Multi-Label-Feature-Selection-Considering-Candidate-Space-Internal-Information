@@ -85,7 +85,7 @@ The paper originally states:
 
 > “The experimental procedures adopt a 10-fold cross-validation averaging.”
 
-However, in the actual experiments, the datasets have already been divided into **training sets** and **test sets**, so no additional partition is required. Therefore, the statement regarding **10-fold cross-validation** is incorrect and has been removed.
+In the actual experiments, the datasets have already been divided into **training sets** and **test sets**, so no additional partition is required. Therefore, the statement regarding **10-fold cross-validation** is incorrect and has been removed.
 
 The experiments reported in the paper were conducted using the **original training and test partitions provided by the datasets**, and this correction **does not affect the reported results or the conclusions of the paper**.
 
